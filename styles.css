@@ -650,7 +650,8 @@ main {
   }
   
   .form-group input,
-  .form-group textarea {
+  .form-group textarea, 
+  .form-group select{
     width: 48%; /* Adjust the width as needed */
     padding: 10px;
     border-radius: 5px;
@@ -688,7 +689,8 @@ main {
     }
   
     .form-group input,
-    .form-group textarea {
+    .form-group textarea,
+    .form-group select{
       width: 100%;
     }
   }
